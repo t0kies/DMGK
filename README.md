@@ -2,7 +2,7 @@
 # DMGK
 DMGK is a keyboard inspired by the gameboy color. It has a slider on the side to control volume, and is designed to be modular. 
 <!-- image is in images/ -->
-![DMGK](https://raw.githubusercontent.com/t0kies/DMGK/master/images/purple_caps.PNG)
+![DMGK](https://github.com/t0kies/DMGK/raw/main/images/purple_caps.PNG)
 
 ## Features
 - Volume slider
